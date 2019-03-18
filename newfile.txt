@@ -1,2 +1,2 @@
-
+new line added
 hello this is my new merge file
